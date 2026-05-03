@@ -1,2 +1,2 @@
-# RoverC_Avesion
-Bugg with sweeping TOF to avoid onstacles and not get stuck
+# RoverC_Aversion
+Buggy with sweeping TOF to avoid obstacles and not get stuck
